@@ -43,10 +43,7 @@ After ID validation, select your preferred candidate.
 less
 Copy code
 online-voting-system/
-├── main.cpp         // Main program logic
-├── students.txt     // Preloaded student IDs and names
-├── votes.txt        // Stores voting results
-├── README.md        // Documentation
+
 💡 Future Enhancements
 Build a user-friendly GUI using Qt.
 Add features for real-time result visualization.
